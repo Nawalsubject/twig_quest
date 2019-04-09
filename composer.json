@@ -1,0 +1,7 @@
+{
+    "name": "wilder18/twig",
+    "require": {
+        "twig/twig": "^2.7"
+    }
+
+}
